@@ -1,16 +1,6 @@
 # desafios_layouts
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Esse projeto foi criado para demonstrar o uso de componentização no flutter, é muito importante
+componentizar suas telas de layouts, por que conforme seu app irá crescendo, é sempre bom deixar organiado,
+o layout visual de seu projeto com o intuito de quem bater o olho saiba, aonde está cada componente na tela,
+montado.
